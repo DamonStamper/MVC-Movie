@@ -1,2 +1,5 @@
 bin/
 .vs/
+Debug/
+debug/
+*.cache
